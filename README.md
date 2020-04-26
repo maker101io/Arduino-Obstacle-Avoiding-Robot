@@ -8,9 +8,9 @@ In this Arduino project video, we are going to build an Arduino Robot that can a
 - 1x HC-SR04 Ultrasonic Distance Module: http://bit.ly/2kJXZsN
 - 1x SG90 9g Mini Servo: http://bit.ly/2JoUQMY
 - 1x Bracket for HC-SR04: https://bit.ly/3bvvF68
-- 1x Wheel and Gear Motor: https://bit.ly/2RXAWLS
+- 2x Wheel and Gear Motor: https://bit.ly/2RXAWLS
 - 1x Front Wheel: https://bit.ly/2Kuhbr6
-- Robot Car Chassis Kit: http://bit.ly/2sqIHgy
+- 2WD Robot Car Chassis Kit: http://bit.ly/2sqIHgy
 - 3 in 1 Jumper Wire: http://bit.ly/2J6de9E
 - Arduino Compatible SCM & DIY Kits: http://bit.ly/2J2AFF7
 # Library: </br>
